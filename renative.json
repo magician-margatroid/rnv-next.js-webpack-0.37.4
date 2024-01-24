@@ -1,0 +1,23 @@
+{
+    "platforms": {},
+    "plugins": {},
+    "extendsTemplate": "@rnv/template-starter/renative.json",
+    "projectName": "rnv-next.js-webpack-0.37.4",
+    "workspaceID": "rnv",
+    "defaults": {
+        "title": "Hello Renative",
+        "id": "com.mycompany.rnv-next.js-webpack-0.37.4",
+        "supportedPlatforms": [
+            "web"
+        ]
+    },
+    "engines": {},
+    "templates": {
+        "@rnv/template-starter": {
+            "version": "0.37.4"
+        }
+    },
+    "currentTemplate": "@rnv/template-starter",
+    "isNew": true,
+    "isMonorepo": false
+}
